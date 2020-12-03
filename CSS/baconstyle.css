@@ -1,0 +1,35 @@
+body {background-image: url(https://img.freepik.com/free-vector/bacon-pattern-food-wallpaper-illustration_53876-62221.jpg?size=626&ext=jpg);
+background-repeat: no-repeat; background-size: cover;
+
+}
+
+
+
+
+
+
+h1
+{color: black; opacity: 1;
+
+font-family: cursive;
+font-size: 50px; text-decoration: underline;
+}
+h1:hover {color: orange;}
+.goood:hover {background-color: green;}
+.baad:hover {background-color: red;}
+.circles {border-radius: 50%;}
+.circles {background-color: gold;}
+
+p {font-size: 20px;}
+
+.vs {font-family: cursive; text-decoration:none;}
+.vs:hover {text-decoration: underline
+  ; color: red;}
+
+.pipu {background-color: rgba(255, 255, 255, 0.93); width: 950px;
+
+border: 6px inset black; padding-left: 20px; padding-right: 20px;
+
+position: fixed; top: 15%; left: 15.5%; border-radius: 150%; border-style: double;
+
+}
